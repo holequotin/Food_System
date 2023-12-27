@@ -1,4 +1,5 @@
 numpy
+grpcio==1.22.0
 tensorflow==1.14.0
 flask
 Werkzeug
